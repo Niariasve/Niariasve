@@ -24,7 +24,7 @@ Lo que quiero lograr como un programador, es tener mucho conocimiento, para pode
 
 ## Proyectos
 
-- [AppContactos](https://github.com/Niariasve/AppContactos)
+- [AppContactos](https://github.com/Niariasve/AppContactos)  
   **Descripción**: Este proyecto de Propgramación Orientada a Objetos, simula un app de contactos de telefono, donde se pueden registrar, eliminar y editar contactos de manera dinamica. Estos contactos quedan guardados en un bloc de notas, que hace la función de bases de datos.
 
 
