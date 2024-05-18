@@ -5,24 +5,30 @@ proyectos y mis intereses.
 
 ## Contenido
 
-* [Informacion personal](#Información-personal)
-* [Proyectos](#Proyectos)
-* [Intereses](#Intereses)
+- [Informacion personal](#Información-personal)
+- [Objetivo profesional](#Objetivo-profesional)
+- [Proyectos](#Proyectos)
+- [Intereses](#Intereses)
 
 ## Información personal
-* Nombre: Néstor Arias Velásquez
-* **Correo:** niarias@espol.edu.ec
-* Ocupación: Estudiante de la carrera de Computación
-* Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: [Sitio web personal](https://niariasve.github.io/Niariasve)
+- **Nombre:** Néstor Arias Velásquez
+- **Correo:** niarias@espol.edu.ec
+- **Ocupación**: Estudiante de la carrera de Computación
+- **Lugar de residencia:** Guayaquil, Ecuador
+- **Sitio web:** [Sitio web personal](https://niariasve.github.io/Niariasve)
+
+## Objetivo profesional
+Como estudiante de Ingenieria en Computación, mi objetivoes convertime en un programador altamente versátil, capaz de poder adatarme rapidamente a las diferentes tecnologías que se crearan con el pasar de los años. Busco ser una persona competente, con muchos conocimientos y una habilidad de adaptación alta. Ademas, busco no solamente saber de un campo, por ejemplo web, conocer las tecnologías, sino que tambien busco especializarme de manera profunda y convertirme en un excelente programador en dichas areas.
+
+Lo que quiero lograr como un programador, es tener mucho conocimiento, para poder entender, adaptarme y resolver nuevos retos, asi como ser completamente y altamente capacitado en alguna tecnología especifica, la cual espero apasionarme durante mis años de estudios restantes.
 
 ## Proyectos
 
-* [lista de proyectos]
+- [lista de proyectos]
 
 
 ## Intereses
 
-* Desarrollo web.
-* Desarrollo de videojuegos.
-* Desarrollo de aplicaciones.
+- Desarrollo web.
+- Desarrollo de videojuegos.
+- Desarrollo de aplicaciones.
