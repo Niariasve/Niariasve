@@ -10,10 +10,11 @@ proyectos y mis intereses.
 * [Intereses] (#intereses)
 
 ## Información personal
-* Nombre: [Néstor Arias Velásquez]
-* Ocupación: [Estudiante de la carrera de Computación]
-* Lugar de residencia: [Guayaquil, Ecuador]
-* Sitio web: []
+* Nombre: Néstor Arias Velásquez
+* **Correo:** niarias@espol.edu.ec
+* Ocupación: Estudiante de la carrera de Computación
+* Lugar de residencia: Guayaquil, Ecuador
+* Sitio web: [Sitio web personal](https://niariasve.github.io/Niariasve)
 
 ## Proyectos
 
@@ -22,4 +23,6 @@ proyectos y mis intereses.
 
 ## Intereses
 
-* [Lista de tus intereses]
+* Desarrollo web.
+* Desarrollo de videojuegos.
+* Desarrollo de aplicaciones.
