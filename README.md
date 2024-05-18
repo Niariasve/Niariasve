@@ -5,9 +5,9 @@ proyectos y mis intereses.
 
 ## Contenido
 
-* [Informacion personal] (#informacion-personal)
-* [Proyectos] (#proyectos)
-* [Intereses] (#intereses)
+* [Informacion personal](#Información-personal)
+* [Proyectos](#Proyectos)
+* [Intereses](#Intereses)
 
 ## Información personal
 * Nombre: Néstor Arias Velásquez
