@@ -9,6 +9,12 @@ proyectos y mis intereses.
 * [Proyectos] (#proyectos)
 * [Intereses] (#intereses)
 
+## Información personal
+* Nombre: [Néstor Arias Velásquez]
+* Ocupación: [Estudiante de la carrera de Computación]
+* Lugar de residencia: [Guayaquil, Ecuador]
+* Sitio web: []
+
 ## Proyectos
 
 * [lista de proyectos]
