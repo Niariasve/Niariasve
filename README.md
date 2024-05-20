@@ -6,10 +6,10 @@ proyectos y mis intereses.
 ## Contenido
 
 - [Informacion personal](#información-personal)
-- [Objetivo profesional](#Objetivo-profesional)
-- [Habilidades técnicas](#Habilidades-técnicas)
-- [Proyectos](#Proyectos)
-- [Intereses](#Intereses)
+- [Objetivo profesional](#objetivo-profesional)
+- [Habilidades técnicas](#habilidades-técnicas)
+- [Proyectos](#proyectos)
+- [Intereses](#intereses)
 
 ## Información personal
 - **Nombre:** Néstor Arias Velásquez
