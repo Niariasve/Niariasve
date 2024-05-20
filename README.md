@@ -7,6 +7,7 @@ proyectos y mis intereses.
 
 - [Informacion personal](#Información-personal)
 - [Objetivo profesional](#Objetivo-profesional)
+- [Habilidades técnicas](#Habilidades-técnicas)
 - [Proyectos](#Proyectos)
 - [Intereses](#Intereses)
 
@@ -18,9 +19,15 @@ proyectos y mis intereses.
 - **Sitio web:** [Sitio web personal](https://niariasve.github.io/Niariasve)
 
 ## Objetivo profesional
-Como estudiante de Ingenieria en Computación, mi objetivoes convertime en un programador altamente versátil, capaz de poder adatarme rapidamente a las diferentes tecnologías que se crearan con el pasar de los años. Busco ser una persona competente, con muchos conocimientos y una habilidad de adaptación alta. Ademas, busco no solamente saber de un campo, por ejemplo web, conocer las tecnologías, sino que tambien busco especializarme de manera profunda y convertirme en un excelente programador en dichas areas.
+Como estudiante de Ingenieria en Computación, mi objetivo es convertime en un programador altamente versátil, capaz de poder adatarme rapidamente a las diferentes tecnologías que se crearan con el pasar de los años. Busco ser una persona competente, con muchos conocimientos y una habilidad de adaptación alta. Además, busco no solamente tener muchos conocimientos de las diferentes ramas de la programación, sino que tambien busco especializarme de manera profunda y convertirme en un excelente programador en las areas en las que tenga mayores habilidades.
 
 Lo que quiero lograr como un programador, es tener mucho conocimiento, para poder entender, adaptarme y resolver nuevos retos, asi como ser completamente y altamente capacitado en alguna tecnología especifica, la cual espero apasionarme durante mis años de estudios restantes.
+
+## Habilidades técnicas
+- Lenguajes de Programación: Python, Java, JavaScript, PHP, C
+- Desarrollo Web: HTML, CSS, SASS, GULP, PHP  
+- Bases de Datos: MySQL, SQL Server
+- Control de Versiones: Git, GitHub 
 
 ## Proyectos
 
@@ -32,6 +39,5 @@ Lo que quiero lograr como un programador, es tener mucho conocimiento, para pode
 
 ## Intereses
 
-- Desarrollo web.
-- Desarrollo de videojuegos.
-- Desarrollo de aplicaciones.
+- **Desarrollo de Software**: Me apasiona la capacidad de poder construir de cero aplicaciones para satisfacer una necesidad. Disfruto programar y saciar la intriga del funcionamiento de ciertos comportamientos o elementos especificos de ciertas aplicaciones. Me divierto mucho en encontrar el por qué de las cosas y aprender las diferentes alternativas que pueden solucionar un mismo problema. El análisis de algoritmos para encontrar el equilibrio entre legibilidad, usabilidad y velocidad tambien es algo en que me interesa.
+- **Programación de Sistemas**: Llevar el desarrollo a un bajo nivel y a trabajar de cerca con el hardware de un dispositivo tambien es un tema que me resulta intrigante. Al ser una persona que siente que para entender algo por completo, es necesario entender por qué y cómo funciona, la programación de sistemas y de bajo nivel me resulta apasionante.
