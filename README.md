@@ -5,7 +5,7 @@ proyectos y mis intereses.
 
 ## Contenido
 
-- [Informacion personal](#Información-personal)
+- [Informacion personal](#información-personal)
 - [Objetivo profesional](#Objetivo-profesional)
 - [Habilidades técnicas](#Habilidades-técnicas)
 - [Proyectos](#Proyectos)
