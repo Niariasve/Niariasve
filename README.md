@@ -27,7 +27,7 @@ Lo que quiero lograr como un programador, es tener mucho conocimiento, para pode
 - [AppContactos](https://github.com/Niariasve/AppContactos)  
   **Descripción**: Este proyecto de Estructuras de Datos, simula un app de contactos de teléfono, donde se pueden registrar, eliminar y editar contactos de manera dinamica. En este proyecto se pone en práctica los conocimientos adquiridos durante la materia, mas especificamente el uso de [listas enlazadas](https://www.geeksforgeeks.org/data-structures/linked-list/) para el desarrollo de este trabajo en equipo.
 
-- [AppTicTacToe](https://github.com/jair-chaguay/AppTicTacToe)
+- [AppTicTacToe](https://github.com/jair-chaguay/AppTicTacToe)  
   **Descripción**: En este proyecto de Estructuras de Datos se busca recrear el juego de [tres en raya](https://es.wikipedia.org/wiki/Tres_en_l%C3%ADnea) con la posibilidad de poder jugar tanto para jugadores como contra una cpu. Para que el cpu pudiera realizar movimientos, se realizó una implementación propia de [arboles](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/), que permitía competir contra tres dificultades. El arbol se utilizaba para la toma de decisiones del mejor movimiento.
 
 ## Intereses
